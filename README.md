@@ -1,5 +1,9 @@
 # ilegra-sales
 
+Para rodar o projeto, basta fazer o download e rodar o comando na raiz:
+
+mvn spring-boot:run
+
 # Propriedades do arquivo application.properties
 
 sale.batch.analyzer.folder.in: Define a pasta aonde estará contido os arquivos de entrada
