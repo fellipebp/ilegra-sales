@@ -2,7 +2,7 @@ package com.trial.ilegra.component.salebatch;
 
 public class SaleBatchConstants {
 
-	public static final String COLUMN_SEPARATOR = "็";
+	public static final String COLUMN_SEPARATOR = "รง";
 	public static final String OUTPUT_FILE = "outFile.txt";
 	public static final String WORST_SELLER = "ws";
 	public static final String MOST_EXPENSIVE_SALE = "mes";
