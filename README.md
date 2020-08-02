@@ -3,8 +3,11 @@
 Propriedades do arquivo application.properties
 
 sale.batch.analyzer.folder.in: Define a pasta aonde estará contido os arquivos de entrada
+
 sale.batch.analyzer.folder.in.read=Define a pasta aonde estará os arquivos lidos serão movidos
+
 sale.batch.analyzer.folder.out=Define a pasta aonde o arquivo resultado do processamento é escrito
+
 sale.batch.analyzer.scheduler=Define o período de execução da rotina, neste caso a cada 1 minuto (60000 milisegundos)
 
 
