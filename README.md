@@ -1,6 +1,6 @@
 # ilegra-sales
 
-Propriedades do arquivo application.properties
+# Propriedades do arquivo application.properties
 
 sale.batch.analyzer.folder.in: Define a pasta aonde estará contido os arquivos de entrada
 
@@ -11,7 +11,7 @@ sale.batch.analyzer.folder.out=Define a pasta aonde o arquivo resultado do proce
 sale.batch.analyzer.scheduler=Define o período de execução da rotina, neste caso a cada 1 minuto (60000 milisegundos)
 
 
-Algumas observações: 
+# Algumas observações: 
 
 Considerei que o exemplo fornecido do arquivo com as linhas quebradas foi pela formatação do PDF. Caso realmente o padrão seja assim seria necessário trocar a
 forma como é identificado uma linha. Para este cenário possivelmente teria que considerar a quantidade de caracteres de controle "ç" até o próximo registro.
